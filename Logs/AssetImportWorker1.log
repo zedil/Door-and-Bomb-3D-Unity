@@ -1,0 +1,126 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'tr' Physical Memory: 8057 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\unity\unity\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/GPFinal/Hafta12
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+59545
+Successfully changed project path to: D:/GPFinal/Hafta12
+D:/GPFinal/Hafta12
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path D:/unity/unity/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GPFinal/Hafta12/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   27.21.14.5771
+Initialize mono
+Mono path[0] = 'D:/unity/unity/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity/unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/unity/unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56968
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unity/unity/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/unity/unity/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003409 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 22.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.416 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 1.679826 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.308 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.48 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 1.829800 ms (FindLiveObjects: 0.172800 ms CreateObjectMapping: 0.028700 ms MarkObjects: 1.490500 ms  DeleteObjects: 0.136600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/bomShooter.cs
+  artifactKey: Guid(349db035d3299dd448a6a99822b446f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bomShooter.cs using Guid(349db035d3299dd448a6a99822b446f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c380138173527ce7e02eea200c9592c') in 0.032679 seconds
+  Import took 0.078673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/barrier.cs
+  artifactKey: Guid(4acd3e1f6d2ed3f4f93ae4e022567768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/barrier.cs using Guid(4acd3e1f6d2ed3f4f93ae4e022567768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eb7ed04e0182ad6449f843aa5b388c2') in 0.002678 seconds
+  Import took 0.023163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 436.582537 seconds.
+  path: Assets/bomShooter.cs
+  artifactKey: Guid(349db035d3299dd448a6a99822b446f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bomShooter.cs using Guid(349db035d3299dd448a6a99822b446f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fcc0857e092839b602d27b3fc4d7d08') in 0.002351 seconds
+  Import took 0.005438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.960948 seconds.
+  path: Assets/ObjectPooler.cs
+  artifactKey: Guid(b1bb8061d8055854caf2b82069509016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjectPooler.cs using Guid(b1bb8061d8055854caf2b82069509016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8719850dbd3ba6ff9adf3c5576c901bf') in 0.002478 seconds
+  Import took 0.106825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 308.466648 seconds.
+  path: Assets/ObjectPooler.cs
+  artifactKey: Guid(b1bb8061d8055854caf2b82069509016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjectPooler.cs using Guid(b1bb8061d8055854caf2b82069509016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db3749dd5033ce0c98dbb31c2aa5ff59') in 0.002893 seconds
+  Import took 0.005867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.417757 seconds.
+  path: Assets/bombPrefab.prefab
+  artifactKey: Guid(f5bf4e7b5e4f3464f8869f7982caef86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bombPrefab.prefab using Guid(f5bf4e7b5e4f3464f8869f7982caef86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a6ed601c720a38ea91c2b141feb7d19') in 0.136297 seconds
+  Import took 0.158007 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
